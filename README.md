@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm NexusAPI</h1>
 <h3 align="center">A frontend as well as backend developer in "many" programming languages. Nice to meet you!</h3>
 
-- I am currently trying to build my Discord around programming. **dsc.gg/nexusapi**
+- I am currently trying to build my Discord around programming. [Discord](dsc.gg/nexusapi)
 
-- How to reach me **You can always reach me via my Discord!**
+- How to reach me **You can always reach me via my Discord!** [Discord](dsc.gg/nexusapi)
 
 - Fun fact **I hate people who call themselves developers but have nothing to do with it ^^^**
 
