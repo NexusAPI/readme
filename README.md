@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/nexusapi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nexusapi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18237148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18237148" height="30" width="40" /></a>
-<a href="https://instagram.com/nexusdevelopment" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nexusdevelopment" height="30" width="40" /></a>
+<a href="https://instagram.com/nexus_development" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nexusdevelopment" height="30" width="40" /></a>
 <a href="https://discord.gg/dsc.gg/nexusapi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="dsc.gg/nexusapi" height="30" width="40" /></a>
 </p>
 
